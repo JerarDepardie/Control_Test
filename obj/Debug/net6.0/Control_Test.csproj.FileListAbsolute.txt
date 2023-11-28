@@ -1,0 +1,15 @@
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\obj\Debug\net6.0\Control_Test.csproj.AssemblyReference.cache
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\obj\Debug\net6.0\Control_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\obj\Debug\net6.0\Control_Test.AssemblyInfoInputs.cache
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\obj\Debug\net6.0\Control_Test.AssemblyInfo.cs
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\obj\Debug\net6.0\Control_Test.csproj.CoreCompileInputs.cache
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\bin\Debug\net6.0\Control_Test.exe
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\bin\Debug\net6.0\Control_Test.deps.json
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\bin\Debug\net6.0\Control_Test.runtimeconfig.json
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\bin\Debug\net6.0\Control_Test.dll
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\bin\Debug\net6.0\Control_Test.pdb
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\obj\Debug\net6.0\Control_Test.dll
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\obj\Debug\net6.0\refint\Control_Test.dll
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\obj\Debug\net6.0\Control_Test.pdb
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\obj\Debug\net6.0\Control_Test.genruntimeconfig.cache
+C:\Users\Jerar Depardie\Desktop\Control_test\Control_Test\obj\Debug\net6.0\ref\Control_Test.dll
